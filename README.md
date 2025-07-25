@@ -25,24 +25,27 @@ This is a simple **Python password generator** that creates secure passwords usi
 
 ---
 
-## 🚀 Usage
+## 🚀 How to Set Up and Run this project
 
-### 📌 Run the script:
+### 1. Fork the Repository
+Click the **Fork** button in the top-right corner of the original repository to create your own copy.
 
-- Fork this repository
-- Clone the forked repository
+### 2. Clone the Repository
+Open a terminal or command prompt and run:
+
 ```bash
-git clone https://github.com/YOUR-USERNAME/Password_Generator.git
+git clone https://github.com/your-username/Password_Generator.git
 ```
-- Navigate to the repository
-```bash
- cd password_generator.
-```
-- Run the code
+
+### 3. Navigate to the directory where `password_generator.py` is saved.
+  ```bash
+  cd Password_Generator.py
+  ```
+### 4. Run the program
 ```bash
 python password_generator.py
 ```
-
+---
 ### 🖥️ Sample Input & Output:
 
 numner of characters of your password:
